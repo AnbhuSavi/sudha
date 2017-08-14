@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gamefied Resume</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<script src="JS/jquery.min.js">
+	</script>
+	<script src="JS/script.js"></script>
+</head>
+<body>
+<div id="header"> 
+	<p id="name">Anbhuckarasi</p>
+	<a href="mailto:anbupalanisamy96@gmail.com" target="_blank">
+	<p id="email">anbupalanisamy96@gmail.com</p></a>
+</div>
+<div class="right" id="d1">
+<center>
+	<h3 id="cd">
+		[+] College Details
+	</h3>
+<div id="collegedetails">
+	<div class="flip" id="college">[+] COLLEGE NAME</div>
+	<div class="panel" id="c1"> K.S.R Institute for Engineering and Technology</div>
+	<div class="flip" id="degree">[+] DEGREE</div>
+	<div class="panel" id="d11"> Bachelor of Engineering</div>
+	<div class="flip" id="branch">[+] BRANCH</div>
+	<div class="panel" id="b1">Computer Science and Enigineering</div>
+	<div class="flip" id="cgpa">[+] CGPA</div>
+	<div class="panel" id="cg">6.86</div>
+</div>
+<h3 id="hsd">
+		[+] Higher Secondary Details
+	</h3>
+<div id="hrsd">
+	<div class="flip" id="hrsc">[+] HIGHER SECONDARY SCHOOL NAME</div>
+	<div class="panel" id="s1">Vellalar Matric Hr.Sec.School</div>
+	<div class="flip" id="branch1">[+] BRANCH</div>
+	<div class="panel" id="b11">Maths Computer Science</div>
+	<div class="flip" id="percentage">[+] PERCENTAGE</div>
+	<div class="panel" id="pg">80.5%</div>
+</div>
+<h3 id="hsd1">
+		[+] High School Details
+	</h3>
+<div id="hrsd1">
+	<div class="flip" id="hrsc1">[+] HIGH SCHOOL NAME</div>
+	<div class="panel" id="s11">Vellalar High School For Girls</div>
+	<div class="flip" id="branch11">[+] BRANCH</div>
+	<div class="panel" id="b2">Maths and Science</div>
+	<div class="flip" id="percentage1">[+] PERCENTAGE</div>
+	<div class="panel" id="pg1">89%</div>
+</div>
+</center>
+</div>
+<div class="right" id="d2">
+<center>
+<h3 id="aoi">
+		[+] Area of Interest
+	</h3>
+<div id="aoidetails">
+		<div id="oop">Database Management System</div>
+		<div id="oop">Data Structures</div>
+		
+	</div>
+	</center>
+	</div>
+<div class="right" id="d3">
+<center>	
+	<h3 id="ts">[+] Technical Skills</h3>
+	<div id="Programming Languages">
+	<div id="oop">C<br>C++<br>HTML<br>JAVA<br></div>
+	<div id="Designing Language">
+	<div id="oop">HTML<br>HTML5<br>CSS<br></div>
+	<div id="Operating systems">
+	<div id="oop">Windows Platform<br></diV>
+	</div>
+</center>
+</div>
+
+<div class="right" id="d5">
+<center>	
+	<h3 id="cca">[+] Co-Curricular Activities </h3>
+	<div id="curricular">
+	<ul type="disc">
+		<li>
+			Attended an International Seminar on " Meta Modelling Approach in Software Engineering" organized by Maharaja Engineering College For Women,Perundurai
+		</li>
+		<li>
+			Participated in workshop on “Ethical Hacking” at KSR Institutions
+		</li>
+		<li>
+			Presented a paper titled "5 PEN PC TECHNOLOGY" at Scad Institute of Technology
+		</li>
+		<li>
+			Presented a paper titled "MOBILE COMPUTING"  at Hindusthan College of Engineering and Technology
+		</li>
+		<li>
+			Completed Wipro Technologies Project Readiness Program training in K.S.R Institute For Engineering and Technology, Tiruchengode 
+		</li>
+	</ul>
+</div>
+</center>
+</div>
+
+
+
+<div class="right" id="d9">	
+		<div id="down">Date:<br>Place:</div>
+		<div id="sign">(Jeeva K)</div>
+</div>
+</body>
+</html>
